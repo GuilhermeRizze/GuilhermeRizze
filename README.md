@@ -1,6 +1,6 @@
 - 👋 Olá, sou o @GuilhermeRizze
 - 👀 Estou começando a descobrir sobre o GitHub
-- 🌱 Tenho Formação Técinica em Informática e estou cursando graduação em Sistemas de Informação
+- 🌱 Tenho Formação Técinica em Informática e sou graduado em Sistemas de Informação
 - 📫 Como chegar até mim: guilhermerc20@gmail.com
 
 <!---
